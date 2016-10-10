@@ -1,6 +1,6 @@
-var Car = function (color, convertible) {
-  this.color = color
+function Car (color, convertible) {
   this.speed = 0
+  this.color = color
   this.convertible = convertible
 }
 
