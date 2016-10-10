@@ -1,7 +1,7 @@
 function Car (color, convertible) {
   this.speed = 0
   this.color = color
-  this.convertible = convertiblez
+  this.convertible = convertible
 }
 
 module.exports = Car
